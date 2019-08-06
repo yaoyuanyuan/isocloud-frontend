@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon-Product_management" data-name="Icon-Product management" class="cls-1" d="M261.5,83H257V78.5A4.5,4.5,0,1,1,261.5,83Zm-11,11a4.5,4.5,0,0,1,0-9H255v4.5A4.5,4.5,0,0,1,250.5,94ZM246,78.5a4.5,4.5,0,0,1,9,0V83h-4.5A4.5,4.5,0,0,1,246,78.5Zm20,11a4.5,4.5,0,0,1-9,0V85h4.5A4.5,4.5,0,0,1,266,89.5Z" transform="translate(-236 -64)"/>
+</svg>

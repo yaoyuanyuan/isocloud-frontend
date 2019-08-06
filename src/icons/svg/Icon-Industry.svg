@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon-Industry40_40" data-name="Icon-Industry40×40" class="cls-1" d="M264,94H248a2,2,0,0,1-2-2V86h5v1a1,1,0,0,0,2,0V86h6v1a1,1,0,0,0,2,0V86h5v6A2,2,0,0,1,264,94Zm-3-11a1,1,0,0,0-2,0v1h-6V83a1,1,0,0,0-2,0v1h-5V80a2,2,0,0,1,2-2h16a2,2,0,0,1,2,2v4h-5V83Zm-1-4V77a1,1,0,0,0-1-1h-6a1,1,0,0,0-1,1v2h-2V76a2,2,0,0,1,2-2h8a2,2,0,0,1,2,2v3h-2Z" transform="translate(-236 -64)"/>
+</svg>

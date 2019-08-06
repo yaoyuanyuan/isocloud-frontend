@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="14" viewBox="0 0 4 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9498a5;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon-tablemore" class="cls-1" d="M1372.5,178a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,1372.5,178Zm0-5a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,1372.5,173Zm0,7a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,1372.5,180Z" transform="translate(-1370.5 -169.5)"/>
+</svg>

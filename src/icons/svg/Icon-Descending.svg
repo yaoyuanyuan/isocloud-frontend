@@ -1,0 +1,19 @@
+<svg id="Icon-Descending" xmlns="http://www.w3.org/2000/svg" width="6" height="10.031" viewBox="0 0 6 10.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9498a5;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #09f;
+      }
+    </style>
+  </defs>
+  <path id="Icon-Descending-2" data-name="Icon-Descending" class="cls-1" d="M1280.33,134h5.34a0.312,0.312,0,0,0,.28-0.482c-0.11-.192-2.46-3.032-2.66-3.359a0.342,0.342,0,0,0-.58,0c-0.14.235-2.5,3.09-2.66,3.369A0.311,0.311,0,0,0,1280.33,134Z" transform="translate(-1280 -130)"/>
+  <path id="Icon-Descending_拷贝" data-name="Icon-Descending 拷贝" class="cls-2" d="M1280.33,136.031h5.34a0.31,0.31,0,0,1,.28.479c-0.11.191-2.46,3.007-2.66,3.333a0.344,0.344,0,0,1-.58,0c-0.14-.235-2.5-3.065-2.66-3.342A0.309,0.309,0,0,1,1280.33,136.031Z" transform="translate(-1280 -130)"/>
+</svg>

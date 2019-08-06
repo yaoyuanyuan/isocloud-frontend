@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Icon-Adplacement-40_40" data-name="Icon-Adplacement-40×40" class="cls-1" d="M267,88H257v7a1,1,0,0,1-2,0V88H245a1,1,0,0,1,0-2h22A1,1,0,0,1,267,88ZM246,74a2,2,0,0,1,2-2h16a2,2,0,0,1,2,2V84H246V74Z" transform="translate(-236 -64)"/>
+</svg>

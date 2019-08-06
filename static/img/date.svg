@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9498a5;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="date_拷贝" data-name="date 拷贝" class="cls-1" d="M1299,146h-14V134h3v-2h2v2h4v-2h2v2h3v12Zm-1-11h-12v10h12V135Zm-9,4h-2v-2h2v2Zm0,4h-2v-2h2v2Zm4-4h-2v-2h2v2Zm0,4h-2v-2h2v2Zm4-4h-2v-2h2v2Zm0,4h-2v-2h2v2Z" transform="translate(-1285 -132)"/>
+</svg>
